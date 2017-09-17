@@ -2,6 +2,7 @@ url: http://protackllc.com
 baseurl: /
 
 # Site settings
+languages: ["en"]
 title: :// protack
 email: support@protackllc.com
 description: "Protack focuses on product development with a DevOps oriented team.  Let's build together."
