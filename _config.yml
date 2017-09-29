@@ -10,22 +10,34 @@ description: "Protack focuses on product development with a DevOps oriented team
 # Team names, titles and social links
 people:
 - name: Robert Turner
-  pic: Rob
+  pic: RobTurner
   position: Principal Engineer
   social:
     - title: twitter
       url: https://twitter.com/crosscutrat
-    - title: facebook
-      url: https://www.facebook.com/crosscutrat
     - title: github
       url: https://github.com/crosscutrat
+    - title: linkedin
+      url: https://linkedin.com/in/crosscutrat
+
+people:
+- name: Christian Haynes
+  pic: ChristianHaynes
+  position: Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/06chaynes
+    - title: github
+      url: https://github.com/06chaynes
+    - title: linkedin
+      url: https://linkedin.com/in/christian-haynes-70923627/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/protackllc
   - title: facebook
-    url: https://www.facebooks.com/protackllc
+    url: https://www.facebook.com/protackllc
   - title: github
     url: http://github.com/protack
 
