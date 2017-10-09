@@ -22,7 +22,7 @@ people:
 
 - name: Christian Haynes
   pic: ChristianHaynes
-  position: Developer
+  position: DevOps Engineer
   social:
     - title: twitter
       url: https://twitter.com/06chaynes
@@ -30,6 +30,22 @@ people:
       url: https://github.com/06chaynes
     - title: linkedin
       url: https://linkedin.com/in/christian-haynes-70923627/
+
+- name: We're Hiring!
+  pic: Deli
+  position: Sales Director
+
+- name: Marty Godsey
+  pic: MartyGodsey
+  position: Sales Engineer
+
+- name: LeTaurus Jefferson
+  pic: LeTaurusJefferson
+  position: Operations Support
+
+- name: Davin Anderson
+  pic: DavinAnderson
+  position: Project Manager
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
