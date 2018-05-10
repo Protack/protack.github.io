@@ -33,7 +33,7 @@ people:
 
 - name: We're Hiring!
   pic: Deli
-  position: Sales Director
+  position: Sales Engineer
   social:
     - title: twitter
       url: https://twitter.com/protackllc
@@ -42,10 +42,6 @@ people:
     - title: linkedin
       url: https://linkedin.com/in/
 
-- name: Marty Godsey
-  pic: MartyGodsey
-  position: Sales Engineer
-
 - name: LeTaurus Jefferson
   pic: LeTaurusJefferson
   position: Operations Support
@@ -53,7 +49,7 @@ people:
 - name: Davin Anderson
   pic: DavinAnderson
   position: Project Manager
-
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
